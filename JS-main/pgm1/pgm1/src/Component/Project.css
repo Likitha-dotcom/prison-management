@@ -1,0 +1,13 @@
+.project-list{
+    line-height: 200%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.project-list:hover
+{
+   background-color: rgb(50, 63, 65) !important;
+   color: rgb(243, 222, 222);
+   font-weight: bold;
+}
+.project
+{text-align: center;}
